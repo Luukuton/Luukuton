@@ -6,11 +6,7 @@ Computer Science (BSc 2nd year) at University of Helsinki
 
 - Discord: **Luukuton#3717**
 
-- [Twitter](https://twitter.com/Luukuton)
-
 - [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
-
-- [Steam](https://steamcommunity.com/id/Luukuton)
 
 
 <!--
