@@ -4,7 +4,7 @@ Computer Science (BSc 2nd year) at University of Helsinki
 
 #### 📫 How to reach me:
 
-- Discord:**Luukuton#3717**
+- Discord: **Luukuton#3717**
 
 - [Twitter](https://twitter.com/Luukuton)
 
