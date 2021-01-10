@@ -1,4 +1,15 @@
-### Hi there 👋
+### 💬 suomi, English, 日本語
+
+
+### 📫 How to reach me:
+- Discord: **Luukuton#3717**
+
+- [Twitter](https://twitter.com/Luukuton)
+
+- [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
+
+- [Steam](https://steamcommunity.com/id/Luukuton)
+
 
 <!--
 **Luukuton/Luukuton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
