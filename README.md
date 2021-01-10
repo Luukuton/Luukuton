@@ -1,8 +1,10 @@
-### 💬 suomi, English, 日本語
+Computer Science (BSc 2nd year) at University of Helsinki
 
+#### 💬 suomi, English, 日本語
 
-### 📫 How to reach me:
-- Discord: **Luukuton#3717**
+#### 📫 How to reach me:
+
+- Discord:**Luukuton#3717**
 
 - [Twitter](https://twitter.com/Luukuton)
 
