@@ -17,9 +17,16 @@ Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
 
 
 ## Certificates
-<img alt="DevOps with Docker" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/certificate-docker.png" width="500">
 
-Sources: [DevOps with Docker](https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/c42e4cace0d281d9a32f6bc9e70a081c)
+<details>
+  <summary>Click here to view</summary>
+  
+  <img alt="DevOps with Docker" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/certificate-docker.png" width="500">
+
+  Sources: [DevOps with Docker](https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/c42e4cace0d281d9a32f6bc9e70a081c)
+</details>
+
+
 
 <!--
 **Luukuton/Luukuton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
