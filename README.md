@@ -21,27 +21,8 @@ Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
 <details>
   <summary>Click here to view</summary>
   
-  <img alt="DevOps with Docker" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/img/certificate-docker.png" width="500">
-
-  <img alt="Elements of AI" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/img/certificate-elements-of-ai.png" width="500">
+  <img alt="DevOps with Docker" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/img/certificate-docker.png" width="350">
+  <img alt="Elements of AI" src="https://raw.githubusercontent.com/Luukuton/Luukuton/main/img/certificate-elements-of-ai.png" width="350">
 
   Sources: [DevOps with Docker](https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/c42e4cace0d281d9a32f6bc9e70a081c), [Elements of AI](https://certificates.mooc.fi/validate/04hbs8qngyir)
 </details>
-
-
-
-<!--
-**Luukuton/Luukuton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
