@@ -4,6 +4,13 @@
 
 Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
 
+- **Ruby**・Ruby on Rails
+- **Java**・Gradle, Maven, JavaFX
+- **JavaScript**・TypeScript, Node.js, React, Next.js
+- **Go**・HTTP
+- **Python**・Flask
+- **and**・HTML+CSS, Docker, Lua, LaTeX, SQL, Scrum...
+
 ### 📫 How to reach me
 
 - Discord: **Luukuton#3717**
